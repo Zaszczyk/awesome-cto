@@ -127,6 +127,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [The Reverse Interview: How To Choose Your Next Company](https://www.reforge.com/blog/reverse-interview)
    * [Reverse Interviewing — How to interview a company as well as they interview you](https://www.fishmanafnewsletter.com/p/how-to-reverse-interview)
    * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview) *(GitHub)*
+   * [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/overview.html) *(GitHub)*
 
 ## Project management
 
